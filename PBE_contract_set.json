@@ -1,25 +1,14 @@
 {
-    "headerData": {
-        "pagination": {
-            "paginationFlag": false
-        }
-    },
-    "selectContractOutput": {
-        "contract": {
-            "holderLegalId": "30923255",
-            "contractNumber": "0000800041",
-            "contractName": "ALBERTO MAESTRE ",
-            "userNumber": 0,
-            "signatures": {
-                "signatureItem": [
-                    {
-                        "method": "PASSWORD"
-                    }
-                ]
-            },
-            "permissions": {
-                "permission": []
-            }
-        }
-    }
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }

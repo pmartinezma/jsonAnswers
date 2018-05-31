@@ -1,0 +1,25 @@
+{
+    "headerData": {
+        "pagination": {
+            "paginationFlag": false
+        }
+    },
+    "selectContractOutput": {
+        "contract": {
+            "holderLegalId": "30923255",
+            "contractNumber": "0000800041",
+            "contractName": "ALBERTO MAESTRE ",
+            "userNumber": 0,
+            "signatures": {
+                "signatureItem": [
+                    {
+                        "method": "PASSWORD"
+                    }
+                ]
+            },
+            "permissions": {
+                "permission": []
+            }
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "headerData": {
+        "pagination": {
+            "paginationFlag": false
+        }
+    },
+    "loginOutput": {
+        "sessionId": "ovnp38bhhd7d95grbsamg6o8nr",
+        "lastConnectionDate": "2018-05-17-11.17.12.000000",
+        "lastConnectionIP": "10.31.18.1",
+        "userLegalId": "30923255",
+        "userNumber": "0000800041",
+        "userName": "ALBERTO",
+        "userFirstSurname": "MAESTRE",
+        "userSecondSurname": "",
+        "userLanguage": "es",
+        "updateCredentialRequired": "0",
+        "sessionTimeout": 300,
+        "donor": false,
+        "channel": "B",
+        "documentType": "CUIL",
+        "documentValue": "20309232551",
+        "contract": {
+            "contractNumber": "0000800041",
+            "contractName": "ALBERTO MAESTRE ",
+            "userNumber": 0,
+            "relationship": "01",
+            "relationshipType": "01",
+            "master": "S",
+            "signatures": {
+                "signatureItem": [
+                    {
+                        "method": "PASSWORD"
+                    }
+                ]
+            },
+            "profiles": {
+                "profile": [
+                    {
+                        "code": "GRUPO_COMERCIAL",
+                        "value": ""
+                    }
+                ]
+            }
+        },
+        "contracts": {
+            "contract": []
+        }
+    }
+}
